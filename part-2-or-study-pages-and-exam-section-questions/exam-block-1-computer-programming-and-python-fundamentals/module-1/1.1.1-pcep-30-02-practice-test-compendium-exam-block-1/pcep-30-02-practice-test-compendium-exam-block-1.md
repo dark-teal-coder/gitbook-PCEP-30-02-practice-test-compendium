@@ -26,4 +26,18 @@ Objectives covered by the block:
 
 * functions: `print()`, `input()`, `sep=` and `end=` keyword parameters, functions: `int()` and `float()`
 
-![](<../../.gitbook/assets/Exam block #1 Computer Programming and Python Fundamentals.png>)
+![](<../../../../.gitbook/assets/Exam block #1 Computer Programming and Python Fundamentals.png>)
+
+## Exam block #1: Computer Programming and Python Fundamentals
+
+This exam block is the first section that appears in the exam. It constitutes a maximum of **18%** of the overall exam score. It contains **seven (7)** exam items, each graded to a maximum of 20, 30, or 40 points.
+
+**Specifications**
+
+* Section weight: 18%
+* Max raw score: 180
+* Questions drawn: 7
+* Question types: single- and multiple-choice, drag & drop, sorting, code ordering
+* Points per question: 4+4+4+4+4, 6+6+6+6+6, 7+6+7 (drag & drop, sorting, code ordering), 20, 30 (single-choice), 10+10, 20+20, 10+20, (multiple-choice)
+
+![](<../../../../.gitbook/assets/Exam block #1 Computer Programming and Python Fundamentals 2.png>)
