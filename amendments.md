@@ -51,3 +51,16 @@ _Before_:&#x20;
 _After_:&#x20;
 
 ![](<.gitbook/assets/Correction 02 on 1.2.1.1 PCEP-30-02 Practice Test Compendium – Lists and strings.png>)
+
+## Correction 05
+
+Location: 1.2.1.3 PCEP-30-02 Practice Test Compendium – Tuples and dictionaries
+
+_Before_:
+
+![](<.gitbook/assets/Typo 01 on 1.2.1.3 PCEP-30-02 Practice Test Compendium – Tuples and dictionaries.png>)
+
+_After_:&#x20;
+
+![](<.gitbook/assets/Correction 01 on 1.2.1.3 PCEP-30-02 Practice Test Compendium – Tuples and dictionaries.png>)
+
