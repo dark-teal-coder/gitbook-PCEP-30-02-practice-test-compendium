@@ -19,7 +19,7 @@ For example, the following snippet prints `TRUE` twice to the screen:
 
 ```python
 counter = 2
-if counter > 0:
+while counter > 0:
     print('TRUE')
     counter -= 1
 ```
