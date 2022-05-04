@@ -53,4 +53,4 @@
   * [PRACTICE TEST](part-2-or-study-pages-and-exam-section-questions/practice-test.md)
 * [Part 3 | Final Practice Test](part-3-or-final-practice-test/README.md)
   * [FINAL PRACTICE TEST](part-3-or-final-practice-test/final-practice-test.md)
-* [Modifications](modifications.md)
+* [Modifications](amendments.md)

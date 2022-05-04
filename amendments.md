@@ -14,9 +14,21 @@ _After_:&#x20;
 
 ![](<.gitbook/assets/Correction 01 on PCEP-30-02 Practice Test Compendium – Loops.png>)
 
+## Correction 02
 
+Location: PCEP-30-02 Practice Test Compendium – Loops
 
-02\) 1.2.1.1 PCEP-30-02 Practice Test Compendium – Lists and strings
+_Before_: &#x20;
+
+![](<.gitbook/assets/Typo 02 on PCEP-30-02 Practice Test Compendium – Loops.png>)
+
+_After_:&#x20;
+
+![](<.gitbook/assets/Correction 02 on PCEP-30-02 Practice Test Compendium – Loops.png>)
+
+## Correction 03
+
+Location: 1.2.1.1 PCEP-30-02 Practice Test Compendium – Lists and strings
 
 _Before_:&#x20;
 
@@ -28,7 +40,9 @@ _After_:&#x20;
 
 
 
-03\) 1.2.1.1 PCEP-30-02 Practice Test Compendium – Lists and strings
+## Correction 04
+
+Location: 1.2.1.1 PCEP-30-02 Practice Test Compendium – Lists and strings
 
 _Before_:&#x20;
 
