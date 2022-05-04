@@ -1,10 +1,10 @@
-# Amendments
+# Modifications
 
 The test compendium contains some typos and errors. On this page, you will find screen captures of the original content and the corresponding amendments.&#x20;
 
+## Correction 01
 
-
-01\) PCEP-30-02 Practice Test Compendium – Loops
+Location: PCEP-30-02 Practice Test Compendium – Loops
 
 _Before_: &#x20;
 
