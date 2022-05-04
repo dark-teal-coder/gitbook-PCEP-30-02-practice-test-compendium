@@ -118,11 +118,11 @@ else:
 
 ```python
 # break inside while
-i = 1
+i = 0
 while True:
     print(i, end=' ')
     i += 1
-    if i == 3:
+    if i == 2:
         break
 else:
     print('FINISHED')
