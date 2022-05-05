@@ -56,6 +56,7 @@
         * [1.1.1.1 PCEP-30-02 Practice Test Compendium – Exam Block #4](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-01/1.1.1-pcep-30-02-practice-test-compendium-exam-block-4/1.1.1.1-pcep-30-02-practice-test-compendium-exam-block-4.md)
         * [1.2.1.1 PCEP-30-02 Practice Test Compendium – Functions](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-01/1.1.1-pcep-30-02-practice-test-compendium-exam-block-4/1.2.1.1-pcep-30-02-practice-test-compendium-functions.md)
         * [1.2.1.2 PCEP-30-02 Practice Test Compendium – Functions](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-01/1.1.1-pcep-30-02-practice-test-compendium-exam-block-4/1.2.1.2-pcep-30-02-practice-test-compendium-functions.md)
+        * [1.2.1.3 PCEP-30-02 Practice Test Compendium – Exceptions and debugging](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-01/1.1.1-pcep-30-02-practice-test-compendium-exam-block-4/1.2.1.3-pcep-30-02-practice-test-compendium-exceptions-and-debugging.md)
     * [Module 02](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-02.md)
   * [PRACTICE TEST](part-2-or-study-pages-and-exam-section-questions/practice-test.md)
 * [Part 3 | Final Practice Test](part-3-or-final-practice-test/README.md)
