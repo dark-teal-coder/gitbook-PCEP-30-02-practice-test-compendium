@@ -78,7 +78,7 @@
 
 
 
-## Exam Block #2 Practice Questions Control Flow - Conditional Blocks and Loops - Score
+## Exam Block #2 Practice Questions Control Flow - Conditional Blocks and Loops
 
 ![](<.gitbook/assets/Exam Block #2 Practice Questions Control Flow - Conditional Blocks and Loops - Score.png>)
 
@@ -152,3 +152,68 @@ The correct answer should be "The program outputs two _at_ signs (`@@`) to the s
 
 ![](<.gitbook/assets/Exam Block #2 Practice Questions Control Flow - Conditional Blocks and Loops - Solution 16.png>)
 
+
+
+## Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Score.png>)
+
+### Solution 01
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 01.png>)
+
+### Solution 02
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 02.png>)
+
+### Solution 03
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 03.png>)
+
+### Solution 04
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 04.png>)
+
+### Solution 05
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 05.png>)
+
+### Solution 06
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 06.png>)
+
+### Solution 07
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 07.png>)
+
+### Solution 08
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 08.png>)
+
+### Solution 09
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 09.png>)
+
+### Solution 10
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 10.png>)
+
+### Solution 10
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 10 (1).png>)
+
+### Solution 11
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 11.png>)
+
+### Solution 12
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 12.png>)
+
+### Solution 13
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 13.png>)
+
+### Solution 14
+
+![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 14.png>)
