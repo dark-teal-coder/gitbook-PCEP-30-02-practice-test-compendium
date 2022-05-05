@@ -54,4 +54,4 @@
 * [Part 3 | Final Practice Test](part-3-or-final-practice-test/README.md)
   * [FINAL PRACTICE TEST](part-3-or-final-practice-test/final-practice-test.md)
 * [Appendix 01: Solutions to Practice Questions](appendix-01-solutions-to-practice-questions.md)
-* [Appendix 01: Modifications](appendix-01-modifications.md)
+* [Appendix 02: Modifications](appendix-02-modifications.md)
