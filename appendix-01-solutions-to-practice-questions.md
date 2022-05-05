@@ -120,7 +120,13 @@
 
 ### Solution 10
 
+The solution to question 10 in Exam Block #2 is incorrect.
+
 ![](<.gitbook/assets/Exam Block #2 Practice Questions Control Flow - Conditional Blocks and Loops - Solution 10.png>)
+
+The correct answer should be "The program outputs two _at_ signs (`@@`) to the screen." See below:&#x20;
+
+![](<.gitbook/assets/Exam Block #2 Solution 10 Correction.png>)
 
 ### Solution 11
 
