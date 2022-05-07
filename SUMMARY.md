@@ -60,7 +60,7 @@
     * [Module 02](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-02/README.md)
       * [2.1.1 Exam Block 4 Practice Questions Functions and Exceptions](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-02/2.1.1-exam-block-4-practice-questions-functions-and-exceptions/README.md)
         * [Exam Block 4 Practice Questions: Functions and Exceptions](part-2-or-study-pages-and-exam-section-questions/exam-block-4-functions-and-exceptions/module-02/2.1.1-exam-block-4-practice-questions-functions-and-exceptions/exam-block-4-practice-questions-functions-and-exceptions.md)
-  * [PRACTICE TEST](part-2-or-study-pages-and-exam-section-questions/practice-test/README.md)
+  * [PRACTICE TEST](part-2-or-study-pages-and-exam-section-questions/practice-test.md)
     * [PCEP-30-02 - Practice Test (Exam Blocks 1-4)](part-2-or-study-pages-and-exam-section-questions/practice-test/pcep-30-02-practice-test-exam-blocks-1-4.md)
 * [Part 3 | Final Practice Test](part-3-or-final-practice-test/README.md)
   * [FINAL PRACTICE TEST](part-3-or-final-practice-test/final-practice-test.md)
