@@ -64,5 +64,5 @@
     * [PCEP-30-02 - Practice Test (Exam Blocks 1-4)](part-2-or-study-pages-and-exam-section-questions/practice-test/pcep-30-02-practice-test-exam-blocks-1-4.md)
 * [Part 3 | Final Practice Test](part-3-or-final-practice-test/README.md)
   * [FINAL PRACTICE TEST](part-3-or-final-practice-test/final-practice-test.md)
-* [Appendix 01: Solutions to Practice Questions](appendix-01-solutions-to-practice-questions.md)
+* [Appendix 01: Solutions to Practice Questions (Exam Blocks 01-04)](appendix-01-solutions-to-practice-questions.md)
 * [Appendix 02: Modifications](appendix-02-modifications.md)
