@@ -99,7 +99,7 @@ The test compendium only allows 5 launches of the Practice Test (Exam Blocks 1-4
 
 ### Question 21
 
-![](<../../.gitbook/assets/Practice Test - Solution 21.png>)
+![](<../../.gitbook/assets/Practice Test 21 (1).png>)
 
 ### Question 22
 
