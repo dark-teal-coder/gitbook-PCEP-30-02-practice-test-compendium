@@ -99,41 +99,41 @@ The test compendium only allows 5 launches of the Practice Test (Exam Blocks 1-4
 
 ### Question 21
 
-
+![](<../../.gitbook/assets/Practice Test 21.png>)
 
 ### Question 22
 
-
+![](<../../.gitbook/assets/Practice Test 22.png>)
 
 ### Question 23
 
-
+![](<../../.gitbook/assets/Practice Test 23.png>)
 
 ### Question 24
 
-
+![](<../../.gitbook/assets/Practice Test 24.png>)
 
 ### Question 25
 
-
+![](<../../.gitbook/assets/Practice Test 25.png>)
 
 ### Question 26
 
-
+![](<../../.gitbook/assets/Practice Test 26.png>)
 
 ### Question 27
 
-
+![](<../../.gitbook/assets/Practice Test 27.png>)
 
 ### Question 28
 
-
+![](<../../.gitbook/assets/Practice Test 28.png>)
 
 ### Question 29
 
-
+![](<../../.gitbook/assets/Practice Test 29.png>)
 
 ### Question 30
 
-
+![](<../../.gitbook/assets/Practice Test 30.png>)
 
