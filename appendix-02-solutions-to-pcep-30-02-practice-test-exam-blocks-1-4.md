@@ -66,61 +66,61 @@
 
 ### Solution 16
 
-
+![](<.gitbook/assets/Practice Test - Solution 16.png>)
 
 ### Solution 17
 
-
+![](<.gitbook/assets/Practice Test - Solution 17.png>)
 
 ### Solution 18
 
-
+![](<.gitbook/assets/Practice Test - Solution 18.png>)
 
 ### Solution 19
 
-
+![](<.gitbook/assets/Practice Test - Solution 19.png>)
 
 ### Solution 20
 
-
+![](<.gitbook/assets/Practice Test - Solution 20.png>)
 
 ### Solution 21
 
-
+![](<.gitbook/assets/Practice Test - Solution 21.png>)
 
 ### Solution 22
 
-
+![](<.gitbook/assets/Practice Test - Solution 22.png>)
 
 ### Solution 23
 
-
+![](<.gitbook/assets/Practice Test - Solution 23.png>)
 
 ### Solution 24
 
-
+![](<.gitbook/assets/Practice Test - Solution 24.png>)
 
 ### Solution 25
 
-
+![](<.gitbook/assets/Practice Test - Solution 25.png>)
 
 ### Solution 26
 
-
+![](<.gitbook/assets/Practice Test - Solution 26.png>)
 
 ### Solution 27
 
-
+![](<.gitbook/assets/Practice Test - Solution 27.png>)
 
 ### Solution 28
 
-
+![](<.gitbook/assets/Practice Test - Solution 28.png>)
 
 ### Solution 29
 
-
+![](<.gitbook/assets/Practice Test - Solution 29.png>)
 
 ### Solution 30
 
-
+![](<.gitbook/assets/Practice Test - Solution 30.png>)
 
