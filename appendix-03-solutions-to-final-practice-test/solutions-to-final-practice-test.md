@@ -1,6 +1,6 @@
-# Solutions to Final Practice Test 1st Launch
+# Solutions to Final Practice Test
 
-### Solutions to Final Practice Test 1st Launch
+### Solutions to Final Practice Test
 
 ![](<../.gitbook/assets/Final Practice Test 1st Launch - Score.png>)
 
