@@ -1,6 +1,6 @@
 # Appendix 02: Solutions to PCEP-30-02 - Practice Test (Exam Blocks 1-4)
 
-## Appendix 02: Solutions to PCEP-30-02 - Practice Test (Exam Blocks 1-4)
+## Solutions to PCEP-30-02 - Practice Test (Exam Blocks 1-4)
 
 ![](<.gitbook/assets/Practice Test - Score.png>)
 
