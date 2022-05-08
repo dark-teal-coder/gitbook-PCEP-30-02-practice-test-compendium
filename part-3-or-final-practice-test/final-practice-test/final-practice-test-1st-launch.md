@@ -79,61 +79,61 @@ The test compendium only allows 5 launches of the Final Practice Test. The quest
 
 ### Question 16
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 16.png>)
 
 ### Question 17
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 17.png>)
 
 ### Question 18
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 18.png>)
 
 ### Question 19
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 19.png>)
 
 ### Question 20
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 20.png>)
 
 ### Question 21
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 21.png>)
 
 ### Question 22
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 22.png>)
 
 ### Question 23
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 23.png>)
 
 ### Question 24
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 24.png>)
 
 ### Question 25
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 25.png>)
 
 ### Question 26
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 26.png>)
 
 ### Question 27
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 27.png>)
 
 ### Question 28
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 28.png>)
 
 ### Question 29
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 29.png>)
 
 ### Question 30
 
-
+![](<../../.gitbook/assets/Final Practice Test 1st Launch 30.png>)
 
