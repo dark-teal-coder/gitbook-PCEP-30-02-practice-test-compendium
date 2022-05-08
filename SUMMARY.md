@@ -73,4 +73,5 @@
 * [Appendix 02: Solutions to PCEP-30-02 - Practice Test (Exam Blocks 1-4)](appendix-02-solutions-to-pcep-30-02-practice-test-exam-blocks-1-4.md)
 * [Appendix 03: Solutions to Final Practice Test](appendix-03-solutions-to-final-practice-test/README.md)
   * [Solutions to Final Practice Test 1st Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-1st-launch.md)
+  * [Solutions to Final Practice Test 2nd Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-2nd-launch.md)
 * [Appendix 04: Modifications](appendix-02-modifications.md)
