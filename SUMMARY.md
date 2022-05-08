@@ -74,4 +74,7 @@
 * [Appendix 03: Solutions to Final Practice Test](appendix-03-solutions-to-final-practice-test/README.md)
   * [Solutions to Final Practice Test 1st Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-1st-launch.md)
   * [Solutions to Final Practice Test 2nd Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-2nd-launch.md)
+  * [Solutions to Final Practice Test 3rd Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-3rd-launch.md)
+  * [Solutions to Final Practice Test 4th Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-4th-launch.md)
+  * [Solutions to Final Practice Test 5th Launch](appendix-03-solutions-to-final-practice-test/solutions-to-final-practice-test-5th-launch.md)
 * [Appendix 04: Modifications](appendix-02-modifications.md)
