@@ -2,7 +2,7 @@
 
 The test compendium only allows 5 launches of the Final Practice Test. The questions are therefore captured here for unlimited practice.&#x20;
 
-![](<../../.gitbook/assets/Practice Test.png>)
+![](<../../.gitbook/assets/Final Practice Test 1st Launch.png>)
 
 ## PCEP-30-02 - Final Practice Test
 
