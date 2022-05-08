@@ -63,7 +63,7 @@
   * [PRACTICE TEST](part-2-or-study-pages-and-exam-section-questions/practice-test.md)
     * [PCEP-30-02 - Practice Test (Exam Blocks 1-4)](part-2-or-study-pages-and-exam-section-questions/practice-test/pcep-30-02-practice-test-exam-blocks-1-4.md)
 * [Part 3 | Final Practice Test](part-3-or-final-practice-test/README.md)
-  * [FINAL PRACTICE TEST](part-3-or-final-practice-test/final-practice-test/README.md)
+  * [FINAL PRACTICE TEST](part-3-or-final-practice-test/final-practice-test.md)
     * [Final Practice Test 1st Launch](part-3-or-final-practice-test/final-practice-test/final-practice-test-1st-launch.md)
     * [Final Practice Test 2nd Launch](part-3-or-final-practice-test/final-practice-test/final-practice-test-2nd-launch.md)
     * [Final Practice Test 3rd Launch](part-3-or-final-practice-test/final-practice-test/final-practice-test-3rd-launch.md)
