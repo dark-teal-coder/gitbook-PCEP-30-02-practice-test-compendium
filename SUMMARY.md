@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Part 1 | About PCEP-30-02](part-1-or-about-pcep-30-02/README.md)
   * [About this guide](part-1-or-about-pcep-30-02/about-this-guide/README.md)
-    * [PCEP-30-02 – Practice Test Study Compendium](part-1-or-about-pcep-30-02/about-this-guide/pcep-30-02-practice-test-study-compendium.md)
+    * [PCEP-30-02 – Practice Test Compendium](part-1-or-about-pcep-30-02/about-this-guide/pcep-30-02-practice-test-study-compendium.md)
     * [PCEP-30-02 Practice Test Compendium – Structure](part-1-or-about-pcep-30-02/about-this-guide/pcep-30-02-practice-test-compendium-structure.md)
   * [PCEP-30-02: Exam specs, exam policies, delivery channels, and FAQs](part-1-or-about-pcep-30-02/pcep-30-02-exam-specs-exam-policies-delivery-channels-and-faqs/README.md)
     * [Section 1: About PCEP-30-02](part-1-or-about-pcep-30-02/pcep-30-02-exam-specs-exam-policies-delivery-channels-and-faqs/section-1-about-pcep-30-02.md)
