@@ -196,10 +196,6 @@ The correct answer should be "The program outputs two _at_ signs (`@@`) to the s
 
 ### Solution 10
 
-![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 10 (1).png>)
-
-### Solution 10
-
 ![](<.gitbook/assets/Exam Block 3 Practice Questions Data Collections - Tuples, Dictionaries, Lists, and Strings - Solution 10.png>)
 
 ### Solution 11
