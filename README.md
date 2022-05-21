@@ -1,6 +1,6 @@
 # Introduction
 
-## About Compendium
+## About PCEP-30-02 Practice Test Compendium
 
 The Study Compendium features exam prep materials and helpful resources in the form of Study Pages, Exam Section Questions, and Practice Tests, which make up a solid package of learning and practice aids for test candidates who wish to build their confidence before taking the exams.
 
@@ -10,7 +10,7 @@ The Practice Tests include all the topics and objectives covered by the PCEP-30-
 * Exam Aligned: PCEP – Certified Entry-Level Python Programmer (PCEP-30-02)
 * Additional Information: Launch limit applies to certain resources.
 
-The compendium can be purchased on Open Education and Development Group (OpenEDG) at: [https://ums.edube.org/products/pcep-30-0x-practice-test-compendium](https://ums.edube.org/products/pcep-30-0x-practice-test-compendium).&#x20;
+The compendium can be purchased on Open Education and Development Group (OpenEDG) at: [https://ums.edube.org/products/pcep-30-0x-practice-test-compendium](https://ums.edube.org/products/pcep-30-0x-practice-test-compendium).
 
 ## Compendium Structure
 
