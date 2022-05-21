@@ -47,6 +47,6 @@ You will have the same amount of time to complete the exam as you would when tak
 
 No. The exams are identical.
 
-If I have technical issues before, during, or after exam administration, who do I contact?
+**If I have technical issues before, during, or after exam administration, who do I contact?**
 
 If you encounter a technical issue during exam delivery, please use the OpenEDG Support Service links to contact the OpenEDG Support Team, or contact the exam proctor who will help you try to resolve the issue. If necessary, the proctor provides an Incident Report number to reference when following up with OpenEDG Customer Support.
