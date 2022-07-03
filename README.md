@@ -68,4 +68,6 @@ Sample exam set consisting of 30 exam-like questions that will provide you with 
 
 Note: The test can be launched to a maximum of 5 times.
 
+<br />
+
 *Last modified date: May 22, 2022*
