@@ -1,5 +1,7 @@
 # Introduction
 
+Public URL: https://roxy-wong.gitbook.io/pcep-30-02-practice-test-compendium/
+
 ## About PCEP-30-02 Practice Test Compendium
 
 The Study Compendium features exam prep materials and helpful resources in the form of Study Pages, Exam Section Questions, and Practice Tests, which make up a solid package of learning and practice aids for test candidates who wish to build their confidence before taking the exams.
